@@ -1,5 +1,5 @@
 Name: koffice-l10n-zh_TW
-Version: 2.0.91
+Version: 2.1.0
 Release: %mkrel 1
 Summary: Language files for KOffice Traditional Chinese
 Group: System/Internationalization
